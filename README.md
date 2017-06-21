@@ -1,0 +1,1 @@
+Supplemental Materials for poster "Prediction modeling to choose the best analysis approach using features of the data" Scott Zimmerman MPH, Ellicott C Matthay MPH, Kara Rudolph Phd MPH MHS, Dana Goin MA, Kriszta Farkas MPH, Jennifer Ahern PhD MPH. University of California Berkeley, School of PUblic Health, Division of Epidemiology.
