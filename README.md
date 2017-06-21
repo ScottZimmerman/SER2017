@@ -4,4 +4,9 @@ Presented at the Society for Epidemiologic Research Conference in Seattle, WA, o
 
 ![Poster Image](https://github.com/ScottZimmerman/SER2017/blob/master/ScottZimmermanFinal.png)
 
-Definitions of feature functions and performance metric functions are available in "Additional Definitions.pptx" file.
+#Additional Definitions
+##Features
+![Poster Image](https://github.com/ScottZimmerman/SER2017/blob/master/Features.png)
+
+##Performance Metrics
+![Poster Image](https://github.com/ScottZimmerman/SER2017/blob/master/Performance.png)
