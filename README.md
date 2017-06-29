@@ -4,6 +4,8 @@ Presented at the Society for Epidemiologic Research Conference in Seattle, WA, o
 
 ![Poster Image](https://github.com/ScottZimmerman/SER2017/blob/master/ScottZimmermanFinal.png)
 
+![Poster Image](https://github.com/ScottZimmerman/SER2017/blob/master/ScottZimmermanFinal_Fixed.png)
+
 # Additional Definitions
 ## Features
 ![Features](https://github.com/ScottZimmerman/SER2017/blob/master/Features.png)
