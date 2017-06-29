@@ -2,9 +2,9 @@ Supplemental Materials for poster "Prediction modeling to choose the best analys
 
 Presented at the Society for Epidemiologic Research Conference in Seattle, WA, on July 21st 2017.
 
-![Poster Image](https://github.com/ScottZimmerman/SER2017/blob/master/ScottZimmermanFinal.png)
-
 ![Poster Image](https://github.com/ScottZimmerman/SER2017/blob/master/ScottZimmermanFinal_Fixed.png)
+
+NB: The [Version Presented at SER](https://github.com/ScottZimmerman/SER2017/blob/master/ScottZimmermanFinal.png)
 
 # Additional Definitions
 ## Features
