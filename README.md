@@ -4,7 +4,7 @@ Presented at the Society for Epidemiologic Research Conference in Seattle, WA, o
 
 ![Poster Image](https://github.com/ScottZimmerman/SER2017/blob/master/ScottZimmermanFinal_Fixed.png)
 
-NB: The [Version Presented at SER](https://github.com/ScottZimmerman/SER2017/blob/master/ScottZimmermanFinal.png)
+The above version has been edited to fix a typo in the data underlying figure 1. The version presented at SER is available [here](https://github.com/ScottZimmerman/SER2017/blob/master/ScottZimmermanFinal.png).
 
 # Additional Definitions
 ## Features
